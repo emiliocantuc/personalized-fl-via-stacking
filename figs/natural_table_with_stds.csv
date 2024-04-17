@@ -1,0 +1,20 @@
+Dataset,Client,N (%),Gain by stacking on validation,Gain by stacking on pooled
+Census,US,92.1,-0.007 ± 0.003,-0.001 ± 0.001
+Census,Latin America,4.3,0.021 ± 0.018,0.018 ± 0.006
+Census,Asia,2.0,0.010 ± 0.027,-0.001 ± 0.004
+Census,Europe,1.6,0.048 ± 0.019,0.004 ± 0.005
+Covertype,Rawah,51.2,-0.006 ± 0.000,0.001 ± 0.000
+Covertype,Neota,5.6,-0.004 ± 0.001,0.001 ± 0.000
+Covertype,Comanche,43.2,-0.004 ± 0.000,0.001 ± 0.000
+Vehicle Loan,6,9.6,0.107 ± 0.007,0.046 ± 0.007
+Vehicle Loan,8,9.6,0.113 ± 0.004,0.026 ± 0.003
+Vehicle Loan,11,9.2,0.039 ± 0.009,0.008 ± 0.003
+Vehicle Loan,2,8.2,0.072 ± 0.009,0.017 ± 0.006
+Vehicle Loan,4,8.1,0.111 ± 0.006,0.010 ± 0.005
+Vehicle Loan,5,6.7,0.047 ± 0.004,0.011 ± 0.005
+Vehicle Loan,0,6.1,0.149 ± 0.010,0.039 ± 0.007
+Vehicle Loan,3,6.0,0.124 ± 0.006,0.027 ± 0.002
+Vehicle Loan,1,5.6,0.052 ± 0.006,0.014 ± 0.004
+Vehicle Loan,9,5.3,0.103 ± 0.006,0.019 ± 0.005
+Vehicle Loan,10,13.7,0.085 ± 0.006,0.022 ± 0.003
+Vehicle Loan,7,11.8,0.077 ± 0.005,0.018 ± 0.002

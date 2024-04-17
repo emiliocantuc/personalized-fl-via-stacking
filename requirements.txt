@@ -1,0 +1,5 @@
+kaggle==1.6.6
+numpy==1.26.4
+pandas==2.2.1
+scikit_learn==1.4.0
+ucimlrepo==0.0.3
