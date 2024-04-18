@@ -1,6 +1,6 @@
 # Personalized Federated Learning via Stacking
 
-This repository contains the code for *(Personalized Federated Learning via Stacking)[https://arxiv.org/abs/2404.10957)*.
+This repository contains the code for *(Personalized Federated Learning via Stacking)[https://arxiv.org/abs/2404.10957]*.
 
 ## Structure
 
